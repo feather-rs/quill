@@ -1,6 +1,6 @@
 # quill
 
-**Notice**: Quill has been moved into the [main Feather repository](https://github.com/feather-rs/quill). Issues and PRs should be made there instead. 
+**Notice**: Quill has been moved into the [main Feather repository](https://github.com/feather-rs/feather). Issues and PRs should be made there instead. 
 
 [![Discord](https://img.shields.io/discord/619316022800809995)](https://discordapp.com/invite/4eYmK69)
 
